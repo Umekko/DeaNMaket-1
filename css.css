@@ -1,0 +1,214 @@
+* {
+    margin: 0 ;
+    padding: 0;
+}
+header {
+    padding-top:33px;
+    max-width: 943px;
+    margin: auto;
+    z-index: 2;
+}
+.header {
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 30px;
+}
+header > p {
+    display: flex;
+    justify-content: space-between;
+}
+.first-a {
+    color: black;
+}
+a {
+    color:#828282;
+    text-decoration: none;
+    font-weight: bold;
+}
+header > hr {
+    border: 1px solid #828282;
+}
+.content {
+    
+}
+
+.fist-content {
+    padding-top: 39.69px;
+    max-width: 943px;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+}
+.denis-novik {
+    margin: 0;
+}
+.denis-novik > span {
+    font-size: 47px;
+    display: flex;
+    align-items: center;
+    font-family: Gilroy-Bold;
+}
+.ux-ui {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ux-ui > span {
+    font-size: 18px;
+    padding-top: 50px;
+}
+.en-ru {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:20px;
+}
+.fist-content-img {
+    width: 943px;
+    margin: auto;
+}
+.fist-content-img > img {
+    width: 100%;
+    padding-top: 30.64px;
+    padding-bottom: 104px;
+}
+
+.banner-2 {
+    padding-top: 120px;
+    padding-bottom: 87px;
+    background-color: #F6F6F6;
+}
+.banner-2 > h2 {
+    text-align: center;
+    padding-bottom: 17.69px;
+}
+.about-me {
+    width: 485px;
+    margin: auto;
+}
+.about-me > p {
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+.banner-skills {
+    padding-top: 91px;
+    padding-bottom: 111px;
+}
+
+.banner-skills > h2 {
+    font-size: 34px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 69.1px;
+}
+
+.banner-skills > p {
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 82px;
+}
+
+.programs {
+    width: 943px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.adobe-prog {
+    width: 166px;
+}
+
+.adobe-prog > p {
+    text-align: center;
+}
+.adobe {
+    padding-top: 24px;
+    padding-bottom: 40px;
+    font-size: 16px;
+    color: #828282;
+    font-weight: bold;
+}
+.star {
+    display: inline;
+    margin-right: 9px;
+}
+.star-1 {
+    display: inline;
+}
+.figma {
+    padding-top: 24px;
+    padding-bottom: 57px;
+    font-size: 16px;
+    color: #828282;
+
+    font-weight: bold;
+}
+.portfolio {
+    padding-top: 203px;
+    background-color: #F6F6F6;
+}
+.portfolio > h2 {
+    text-align: center;
+    font-size: 34px;
+    font-weight: bold;
+    margin-bottom: 47px;
+}
+.woman-man {
+    width: 936px;
+    margin: auto;
+}
+.woman-man > p {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 99px;
+    text-decoration:underline;
+}
+footer {
+    padding-top: 114px;
+}
+footer > h2 {
+    text-align: center;
+    font-size: 34px;
+    padding-bottom: 20px;
+}
+
+footer > p {
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 29px;
+}
+footer > button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 166px;
+    height: 38px;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+}
+.img-footer {
+    padding-top: 86px;
+}
+.like-me {
+    font-size: 14px;
+    color:#828282;
+    padding-top:45px;
+    padding-bottom: 123px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
